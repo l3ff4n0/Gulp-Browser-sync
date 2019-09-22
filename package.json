@@ -1,0 +1,25 @@
+{
+  "name": "gulp-browsersync",
+  "description": "Gulp 4 and browsersync",
+  "author": "Stefano Frasson Pianizzola",
+  "contributors": [
+    {
+      "name": "Stefano Frasson Pianizzola",
+      "email": "frasson.stefano@gmail.com"
+    }
+  ],
+  "version": "0.0.1",
+  "dependencies": {},
+  "devDependencies": {
+    "browser-sync": "^2.26.7",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^7.0.0",
+    "gulp-clean-css": "^4.2.0",
+    "gulp-notify": "^3.2.0",
+    "gulp-postcss": "^8.0.0",
+    "gulp-sass": "^4.0.2",
+    "gulp-sourcemaps": "^2.6.5",
+    "gulp-uglify": "^3.0.2",
+    "gulp-watch": "^5.0.1"
+  }
+}
